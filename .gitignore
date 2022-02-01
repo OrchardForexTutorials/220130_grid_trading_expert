@@ -1,0 +1,8 @@
+mqlcache.dat
+*.ex4
+*.ex5
+*.lnk
+
+/Frameworks
+/Include/Orchard/Frameworks
+/*.bat
